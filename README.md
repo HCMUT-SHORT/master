@@ -1,2 +1,3 @@
-# master
-templete repo
+# Giới thiệu ứng dụng AI Travel
+AI Travel là ứng dụng nhằm giúp người dùng giải quyết những vấn đề thường gặp trong việc lên kế hoạch du lịch tự túc. Người dùng có thể lên kế hoạch du lịch dễ dàng và phân chia chi phí các hoạt động chung với những người cùng tham gia chuyến đi. Người dùng có thể chọn nhóm người đi cùng hoặc đi một mình, địa điểm muốn đến (tỉnh thành, quốc gia), số ngày đi và chi phí dự trù. Từ những lựa chọn của người dùng, ứng dụng sẽ đề xuất phương tiện di chuyển (bao gồm thông tin chi tiết, giá vé và đường link đến trang mua vé), các địa điểm du lịch (gồm vị trí, giá vé, loại hình du lịch). Sau khi đã hoàn thành tour, ứng dụng vẫn cho phép người dùng điều chỉnh lại tour khi có nhu cầu.
+

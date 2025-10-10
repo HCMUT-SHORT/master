@@ -12,3 +12,8 @@ Mục tiêu của chúng tôi là giúp bạn có thể hoàn thành kế hoạc
 ✅ Tổng hợp tất cả thông tin chuyến đi trên ứng dụng
 
 ✅ Quản lý chi phí tự động 
+
+### Một số thông tin chung 
+🔃 [Tiến độ dự án](https://github.com/orgs/HCMUT-SHORT/projects/2)
+
+📝 [Wiki của dự án](https://github.com/HCMUT-SHORT/master/wiki)

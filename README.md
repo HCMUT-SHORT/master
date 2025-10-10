@@ -1,3 +1,10 @@
-# Giới thiệu ứng dụng AI Travel
-AI Travel là ứng dụng nhằm giúp người dùng giải quyết những vấn đề thường gặp trong việc lên kế hoạch du lịch tự túc. Người dùng có thể lên kế hoạch du lịch dễ dàng và phân chia chi phí các hoạt động chung với những người cùng tham gia chuyến đi. Người dùng có thể chọn nhóm người đi cùng hoặc đi một mình, địa điểm muốn đến (tỉnh thành, quốc gia), số ngày đi và chi phí dự trù. Từ những lựa chọn của người dùng, ứng dụng sẽ đề xuất phương tiện di chuyển (bao gồm thông tin chi tiết, giá vé và đường link đến trang mua vé), các địa điểm du lịch (gồm vị trí, giá vé, loại hình du lịch). Sau khi đã hoàn thành tour, ứng dụng vẫn cho phép người dùng điều chỉnh lại tour khi có nhu cầu.
-
+# AI Travel
+> 🧳 _**Ải nào khó có AI Travel lo**_
+### Tại sao bạn cần AI Travel? 
+Bạn là người thích đi du lịch tự túc nhưng lại gặp khó khăn trong việc lên kế hoạch du lịch? Bạn không biết làm thế nào để quản lý chi phí chuyến đi? Bạn trăn trở khi có quá nhiều địa điểm tham quan tại nơi bạn muốn đến, lại không biết đánh giá nào là thật?
+Đừng lo, việc gì khó đã có **AI Travel** lo! 
+### Mục tiêu
+Mục tiêu của chúng tôi là giúp bạn có thể hoàn thành kế hoạch du lịch một cách nhanh chóng, tiện lợi với AI Travel:
+✅ Đề xuất các địa điểm tham quan được đánh giá cao trên Google Review theo sở thích của bạn 
+✅ Tổng hợp tất cả thông tin chuyến đi trên ứng dụng
+✅ Quản lý chi phí tự động 
